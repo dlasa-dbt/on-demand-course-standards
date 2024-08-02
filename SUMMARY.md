@@ -12,7 +12,7 @@
 * [Assessment](on-demand-course-standards/assessment.md)
 * [Course survey](on-demand-course-standards/course-survey.md)
 
-## On-Demand Course Style Guide
+## On-demand course style guide
 
 * [Instructional text](on-demand-course-style-guide/instructional-text.md)
 * [Chunking content](on-demand-course-style-guide/chunking-content.md)
