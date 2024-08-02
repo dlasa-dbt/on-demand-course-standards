@@ -2,7 +2,7 @@
 
 ## Course overview requirements
 
-**Requirement**. Each course must include a course overview that features an outline of the course, a list of course pre-requisites, and a clear idea of what learners will learn in the course.
+**Requirement**. Each course includes a course overview that features an outline of the course, a list of course pre-requisites, and a clear idea of what learners will learn in the course.
 
 **Guidelines**. The course overview must be accessible at the beginning of the course and throughout. If there is a primary technical instructor, the overview can be delivered as an instructor intro video.
 
