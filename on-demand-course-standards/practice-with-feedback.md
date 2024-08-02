@@ -10,4 +10,4 @@
 
 **Visual**. Screenshot of practice from Semantic Layer course
 
-<figure><img src="../.gitbook/assets/Semantic Layer Hands-On Practice.png" alt=""><figcaption><p>Figure 1.4 Semantic Layer Practice</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Semantic Layer Hands-On Practice.png" alt=""><figcaption><p>Figure 1.3 Semantic Layer Practice</p></figcaption></figure>
