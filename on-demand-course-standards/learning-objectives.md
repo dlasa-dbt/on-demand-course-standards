@@ -8,4 +8,6 @@
 
 **Example**. Refer to [**dbt Fundamentals On-Demand**](https://learn.getdbt.com/learn/course/dbt-fundamentals/who-is-an-analytics-engineer-20min/introduction-to-analytics-engineering) for an example of a course with measurable, behavioral learning objectives in every course section.
 
+**Visual.** Screenshot of dbt Fundamentals learning objectives
+
 <figure><img src="../.gitbook/assets/visual-learning objectives.jpg" alt=""><figcaption><p>1.2 dbt fundamentals learning objectives</p></figcaption></figure>
