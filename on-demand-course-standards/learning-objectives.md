@@ -10,4 +10,4 @@
 
 **Visual.** Screenshot of dbt Fundamentals learning objectives
 
-<figure><img src="../.gitbook/assets/visual-learning objectives.jpg" alt=""><figcaption><p>1.2 dbt fundamentals learning objectives</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/visual-learning objectives.jpg" alt=""><figcaption><p>1.1 dbt fundamentals learning objectives</p></figcaption></figure>
