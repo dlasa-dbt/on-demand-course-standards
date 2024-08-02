@@ -8,4 +8,4 @@
 
 **Example**. Refer to \[course] for an example of social learning - (this is in progress)
 
-**Visual.** Figure 1.5 Course title
+**Visual.** Figure 1.4 Course title
