@@ -2,7 +2,7 @@
 
 ## Course survey requirements
 
-**Requirements**. Every public course must include a survey to gather specific feedback on course content, course structure, and course media and delivery methods.
+**Requirements**. Every public course must include a survey to gather specific feedback on course content, course structure, course media, and delivery methods.
 
 **Guidelines.** Use learner feedback to identify areas for improvement, to enhance learner engagement, and to inform course design decisions.
 
