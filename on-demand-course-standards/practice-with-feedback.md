@@ -8,4 +8,6 @@
 
 **Example**. Refer to the [**Semantic Layer On-Demand**](https://learn.getdbt.com/learn/course/semantic-layer/semantic-models/semantic-models?page=7) for examples of practice assignments with clear expectations, instructions, code snippets, and support materials.
 
+**Visual**. Screenshot of practice from Semantic Layer course
+
 <figure><img src="../.gitbook/assets/Semantic Layer Hands-On Practice.png" alt=""><figcaption><p>Figure 1.4 Semantic Layer Practice</p></figcaption></figure>
