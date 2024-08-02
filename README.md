@@ -4,7 +4,7 @@
 
 Welcome to the On-Demand Learning Fieldbook. This resource offers a dynamic set of guidelines for creating engaging learning experiences that educate customers and build trust in data teams.
 
-The guide supports the development of dbt Learn On-Demand public courses, which have been taken by nearly 130,000 learners. These courses consistently receive top NPS scores, exceeding SaaS industry training benchmarks.
+The guide supports the development of dbt Learn On-Demand public courses, which have been taken by nearly 130,000 learners. These courses consistently receive top Net Promoter Scores, exceeding SaaS industry training benchmarks.
 
 This success is driven by our commitment to following dbt’s design principles and brand guidelines, and evidence-based best practices in instructional design and learning experience design.
 
