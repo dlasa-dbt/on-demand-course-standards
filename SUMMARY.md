@@ -23,3 +23,5 @@
 
 * [📗 Glossary](https://dbt-learn.gitbook.io/on-demand-learning-fieldbook/v/on-demand-learning-glossary)
 * [📘 Word List](https://dbt-learn.gitbook.io/on-demand-learning-fieldbook/v/on-demand-learning-word-list)
+* [📗 Glossary](https://dbt-learn.gitbook.io/on-demand-learning-fieldbook/v/on-demand-learning-glossary)
+* [📘 Word List](https://dbt-learn.gitbook.io/on-demand-learning-fieldbook/v/on-demand-learning-word-list)
