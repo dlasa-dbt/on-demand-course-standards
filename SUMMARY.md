@@ -19,10 +19,6 @@
 * [Course labels](on-demand-course-style-guide/course-labels.md)
 * [Accessibility](on-demand-course-style-guide/accessibility.md)
 
-***
-
-* [📖 On-Demand Learning Glossary](https://dbt-learn.gitbook.io/on-demand-course-standards/v/instructional-design-glossary)
-
 ## Resources
 
 * [📗 Glossary](https://dbt-learn.gitbook.io/on-demand-learning-fieldbook/v/on-demand-learning-glossary)
