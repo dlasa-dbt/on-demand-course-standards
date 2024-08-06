@@ -14,7 +14,7 @@ layout:
 
 # Course overview
 
-**Requirement**. Each course must include a course overview that features an outline of the course, a list of course pre-requisites, and a clear idea of what learners will learn in the course.
+
 
 ## Course overview r**equirements**
 
