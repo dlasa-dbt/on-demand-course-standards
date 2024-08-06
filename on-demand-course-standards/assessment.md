@@ -2,7 +2,7 @@
 
 ## Assessment requirements
 
-**Requirement**. Courses must include ongoing and frequent assessment, and the relationship between learning outcomes and assessment must be clear.
+**Requirement**. Courses must include ongoing and frequent assessments, and the relationship between learning outcomes and assessment must be clear.
 
 **Guidelines.** Include two or more answer options for multiple choice questions, make sure you use a consistent number of answer options that do not include clues as to which answer is correct. Use [**plausible distractors**](https://dbt-learn.gitbook.io/on-demand-learning-fieldbook/v/on-demand-learning-glossary#plausible-distractor)**,** provide immediate feedback, and use [**rejoinders**](https://dbt-learn.gitbook.io/on-demand-learning-fieldbook/v/on-demand-learning-glossary#rejoinder). Do not ask questions about topics not covered in the course material.
 
