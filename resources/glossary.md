@@ -28,8 +28,48 @@ An instructional design model used to develop training and online learning. ADDI
 
 <details>
 
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span> Blended Learning</summary>
+
+The use of more than one method to deliver training and support to learners, such as combining face-to-face training with on-demand learning.
+
+</details>
+
+<details>
+
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span> Bloom's Taxonomy</summary>
 
 A hierarchical ordering of cognitive skills that can help teachers and students in the classroom. It was pioneered by Benjamin Bloom in 1956, who established a framework for categorizing educational goals. **For more information, see** [**Bloom's Taxonomy**](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)**.**
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span> Demo Video</summary>
+
+A how-to video that demonstrates how something works. Typically used to demonstrate the steps in a process. Should be 5-8 minutes max.
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span> Explainer Video</summary>
+
+A short video that covers a specific idea or topic in a simple way. Explainer videos are used to give learners a high-level overview of a topic before they dive into the details, or as performance support to provide targeted information.
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span> Plausible Distractor</summary>
+
+A plausible distractor in learning is an incorrect answer option in a multiple-choice question that is designed to be a reasonable alternative to the correct answer. **For more information**, see [**Writing Good Multiple Choice Questions.**](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/)
+
+</details>
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span> Rejoinder</summary>
+
+In the context of eLearning, a **rejoinder** acts as a tool to give a learner feedback on the answer they choose in a quiz. A rejoinder might explain why the choice they selected is correct or incorrect.
 
 </details>
