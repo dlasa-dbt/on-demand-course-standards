@@ -2,7 +2,7 @@
 
 ## Explainer and demo video requirements
 
-**Requirements.** Final versions of public courses include instructional videos aligned with learning objectives. Explainer videos give learners a high-level overview of a topic before they dive into details. Demo videos demonstrate the steps in a process, and go into detail. Demos should be 7-10 minutes maximum.
+**Requirements.** Final versions of public courses include instructional videos aligned with learning objectives. Explainer videos give learners a high-level overview of a topic before they dive into details. Demo videos demonstrate the steps in a process, and go into detail. Demos should be 5-8 minutes maximum, if possible.
 
 **Guidelines**. Explainer videos typically contain the instructor’s voice over slides, Lucid Chart diagrams, graphics, photos, or other images. Demo videos focus on processes in the dbt Cloud user interface or within a data platform. They describe specific actions, lead learners step by step, and provide guidance using the names of buttons, menus, and other interface elements.
 
