@@ -16,8 +16,6 @@ layout:
 
 
 
-## Course overview r**equirements**
-
 ## Course overview requirements
 
 **Requirement**. Each course begins with an overview, providing an outline, a list of prerequisites, and clear learning objectives.
