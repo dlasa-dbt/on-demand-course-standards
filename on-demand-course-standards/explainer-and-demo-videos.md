@@ -10,4 +10,4 @@
 
 **Visual.** Screenshot from dbt Cloud and BigQuery for Admins
 
-<figure><img src="../.gitbook/assets/visual-bqforadmins.png" alt=""><figcaption><p>Figure 1.2 dbt Cloud and BigQuery for Admins Videos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/visual-bqforadmins.png" alt=""><figcaption><p>dbt Cloud and BigQuery for Admins Videos</p></figcaption></figure>
