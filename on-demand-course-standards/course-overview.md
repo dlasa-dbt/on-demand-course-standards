@@ -26,4 +26,4 @@ layout:
 
 **Visual.** Screenshot from Unit testing course
 
-<figure><img src="../.gitbook/assets/Visual 1.0-unit testing (1).jpg" alt=""><figcaption><p>Figure 1.0 Unit Testing Course Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Visual 1.0-unit testing (1).jpg" alt=""><figcaption><p>Unit Testing Course Overview</p></figcaption></figure>
