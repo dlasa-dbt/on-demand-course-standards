@@ -10,4 +10,4 @@
 
 **Visual.** Screenshot of dbt Fundamentals quiz
 
-<figure><img src="../.gitbook/assets/visual-fundamentals quix.jpg" alt=""><figcaption><p>Figure 1.5 dbt Fundamentals Quiz On-Demand</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/visual-fundamentals quix.jpg" alt=""><figcaption><p>dbt Fundamentals Quiz On-Demand</p></figcaption></figure>
