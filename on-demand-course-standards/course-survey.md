@@ -10,4 +10,4 @@
 
 **Visual.** Screenshot of dbt Learn On-Demand Typeform survey
 
-<figure><img src="../.gitbook/assets/fieldbook-course-survey-2024-07.png" alt=""><figcaption><p>Figure 1.6 End of Course Survey</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/fieldbook-course-survey-2024-07.png" alt=""><figcaption><p>End of Course Survey</p></figcaption></figure>
