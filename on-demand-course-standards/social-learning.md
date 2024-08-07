@@ -10,4 +10,4 @@
 
 **Visual.** _dbt Community landing page with social learning call to action_
 
-<figure><img src="../.gitbook/assets/dbt community-2024-08-07 at 10.22.43 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dbt community-2024-08-07 at 10.22.43 AM.png" alt=""><figcaption><p><a href="https://www.getdbt.com/community">https://www.getdbt.com/community</a> landing page</p></figcaption></figure>
