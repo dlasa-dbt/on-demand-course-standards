@@ -18,7 +18,7 @@ layout:
 
 ## Course overview requirements
 
-**Requirement**. Each course begins with an overview, providing an outline, a list of prerequisites, and preview of the course structure and format.
+**Requirement**. Each course begins with an overview, providing an outline, a list of prerequisites, and a preview of the course structure and format.
 
 **Guidelines**. The course overview must be accessible at the beginning of the course and throughout. If there is a primary technical instructor, the overview can be delivered as an instructor intro video.
 
